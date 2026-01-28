@@ -11,6 +11,7 @@ An abstract, futuristic single-page experience featuring an ethereal mesh backgr
 This contains everything you need to run your app locally.
 
 See it live: https://larx-007.github.io/event-horizon/
+
 View the app in AI Studio: https://ai.studio/apps/drive/1zylCSa6IvfwJ5rcTk1nL-636HEwZ3idH
 
 ## Run Locally
